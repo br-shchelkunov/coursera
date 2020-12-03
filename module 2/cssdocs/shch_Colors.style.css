@@ -1,0 +1,118 @@
+				/* text colors */
+
+.shch-txt-white
+{ color: white;
+}
+
+.shch-txt-red
+{ color: red;
+}
+
+.shch-txt-green
+{ color: green;
+}
+
+.shch-txt-yellow
+{ color: yellow;
+}
+
+.shch-txt-cyan
+{ color: cyan;
+}
+
+.shch-txt-blue
+{ color: blue;
+}
+
+.shch-txt-magenta
+{ color: magenta;
+}
+
+.shch-txt-brown
+{ color: brown;
+}
+
+.shch-txt-black
+{ color: green;
+}
+
+
+				/* eerie text styles */
+
+/* ms = medium speed, change in 1sec */
+.shch-glow-eerie-ms
+{ animation: shch-textglow-eerie 1s ease-in-out infinite alternate;
+}
+
+@keyframes shch-textglow-eerie
+{
+from
+{ text-shadow: 0 -10px 10px #fff, 0 -10px 20px #fff, 0 -10px 30px #e60073, 0 -10px 40px #e60073, 0 -10px 50px #e60073, 0 -10px 60px #e60073, 0 -10px 70px #e60073;
+}
+to
+{ text-shadow: 0 10px 20px #fff, 0 10px 30px #ff4da6, 0 10px 40px #ff4da6, 0 10px 50px #ff4da6, 0 10px 60px #ff4da6, 0 10px 70px #ff4da6, 0 10px 80px #ff4da6;
+}
+//keyframes shch-textglow-eerie end
+}
+
+
+				/* background-colors */
+.shch-bkg-white
+{ background-color: white;
+}
+
+.shch-bkg-red
+{ background-color: red;
+}
+
+.shch-bkg-green
+{ background-color: green;
+}
+
+.shch-bkg-yellow
+{ background-color: yellow;
+}
+
+.shch-bkg-cyan
+{ background-color: cyan;
+}
+
+.shch-bkg-blue
+{ background-color: blue;
+}
+
+.shch-bkg-magenta
+{ background-color: magenta;
+}
+
+.shch-bkg-brown
+{ background-color: brown;
+}
+
+.shch-bkg-black
+{ background-color: black;
+}
+
+			/* center screen */
+/*
+*/
+/*
+*/
+/*
+*/
+/*
+*/
+/*
+*/
+/*
+*/
+/*
+*/
+/*
+*/
+/*
+*/
+/*
+*/
+
+

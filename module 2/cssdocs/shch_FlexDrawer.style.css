@@ -7,7 +7,7 @@
   height: auto;
 
   padding: 0px 10px 22px 10px;
-  border: 2px groove transparent;//alt-color=green
+  border: 2px groove transparent;/*alt-color=green*/
 }
 
 .shch-drawer p::first-letter
@@ -32,7 +32,7 @@
 { height: auto;
 
   padding: 2px 18px 2px 18px;
-  border: 2px ridge transparent;//alt-color=gray
+  border: 2px ridge transparent;/*alt-color=gray*/
 }
 
 				/* alpha-media; and 0px - 575px */

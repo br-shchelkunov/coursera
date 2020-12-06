@@ -21,9 +21,20 @@ h2
 }
 
 h3
+{ font-size: 1.85rem;
+}
+
+h4
 { font-size: 1.6rem;
 }
 
+h5
+{ font-size: 1.4rem
+}
+
+h6
+{ font-size: 1.2rem;
+}
 				/* headers and footers */
 .shch-face
 { padding: 12px 12px 28px 12px;
@@ -46,7 +57,7 @@ h3
 }
 
 
-			/* center screen */
+				/* center screen */
 /*
 */
 /*

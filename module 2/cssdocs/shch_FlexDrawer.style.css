@@ -45,7 +45,7 @@
 .shch-bin-alpha-50
 { width: 50%;
 }
-//alpha-media ends
+/* alpha-media ends */
 }
 
 @media (min-width: 0) and (max-width: 575px) {
@@ -57,7 +57,7 @@
 .shch-bin-0-575-50percent
 { width: 50%;
 }
-//bin-0-575-media ends
+/* bin-0-575-media ends */
 }
 
 				/* beta-media; and 576px  - 767px */
@@ -74,7 +74,7 @@
 .shch-bin-beta-33
 { width: 33.33%;
 }
-//beta-media ends
+/* beta-media ends */
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -90,7 +90,7 @@
 .shch-bin-576-767-33percent
 { width: 33.33%;
 }
-//bin-576-767-media ends
+/* bin-576-767-media ends */
 }
 
 
@@ -112,7 +112,7 @@
 .shch-bin-gamma-25
 { width: 25%;
 }
-//gamma-media ends
+/* gamma-media ends */
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -132,7 +132,7 @@
 .shch-bin-768-991-25percent
 { width: 25%;
 }
-//bin-768-991-media ends
+/* bin-768-991-media ends */
 }
 
 				/* delta-media; and 992px - 1199px */
@@ -146,7 +146,7 @@
 .shch-bin-delta-25
 { width: 25%;
 }
-//delta-media ends
+/* delta-media ends */
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -158,7 +158,7 @@
 .shch-bin-992-1199-25percent
 { width: 25%;
 }
-//bin-992-1199-media ends
+/* bin-992-1199-media ends */
 }
 
 				/* epsilon-media; and 1200px  - 1779px */
@@ -175,7 +175,7 @@
 .shch-bin-epsilon-25
 { width: 25%;
 }
-//epsilon-media ends
+/* epsilon-media ends */
 }
 
 @media (min-width: 1200px) and (max-width: 1779px) {
@@ -191,7 +191,7 @@
 .shch-bin-1200-1779-25percent
 { width: 25%;
 }
-//bin-1200-1779-media ends
+/* bin-1200-1779-media ends */
 }
 
 				/* zeta-media; and 1780px - undup */
@@ -208,6 +208,6 @@
 .shch-bin-1780-andup-25percent, .shch-bin-zeta-25
 { width: 25%;
 }
-//zeta-media ends
-//bin-1780-andup ends
+/* zeta-media ends */
+/* bin-1780-andup ends */
 }

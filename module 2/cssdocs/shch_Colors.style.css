@@ -39,6 +39,7 @@
 
 				/* eerie text styles */
 
+@media (min-width: 576px) {
 /* ms = medium speed, change in 1sec */
 .shch-glow-eerie-ms
 { animation: shch-textglow-eerie 1s ease-in-out infinite alternate;
@@ -52,9 +53,10 @@ from
 to
 { text-shadow: 0 10px 20px #fff, 0 10px 30px #ff4da6, 0 10px 40px #ff4da6, 0 10px 50px #ff4da6, 0 10px 60px #ff4da6, 0 10px 70px #ff4da6, 0 10px 80px #ff4da6;
 }
-//keyframes shch-textglow-eerie end
+/* keyframes shch-textglow-eerie end */
 }
-
+/* media ends */
+}
 
 				/* background-colors */
 .shch-bkg-white

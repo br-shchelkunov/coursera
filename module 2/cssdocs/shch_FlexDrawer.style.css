@@ -10,11 +10,6 @@
   border: 2px groove transparent;/*alt-color=green*/
 }
 
-.shch-drawer p::first-letter
-{ font-size: 1.3em;
-  font-wight: bold;
-}
-
 				/* flex-bins = columns */
 	
 .shch-bin-0-575-100percent, .shch-bin-0-575-50percent,
